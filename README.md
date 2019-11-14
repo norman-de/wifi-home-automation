@@ -1,4 +1,4 @@
-# Simple home automation
+# Simple WiFi home automation
 A collection of examples and information for a simple and affordable home automation solution. (For nerds only)
 
 ![GitHub](https://img.shields.io/github/license/norman-de/simple-home-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/norman-de/simple-home-automation)
