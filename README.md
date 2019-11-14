@@ -18,7 +18,7 @@ A collection of examples and information for a simple and affordable home automa
 ### Software
 * [MQTT Dash - Android App for MQTT dashboards](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de)
 * [mqtt-spy -  open source utilities for publishing and monitoring activity on MQTT topics.](https://github.com/eclipse/paho.mqtt-spy/wiki/Overview)
-* [rtl_433 -  generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, and 915 MHz ISM bands](git://github.com/merbanan/rtl_433)
+* [rtl_433 -  generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, and 915 MHz ISM bands](https://github.com/merbanan/rtl_433)
 * [thingsboard.io - open source IoT Plattform](https://thingsboard.io/)
     * [ThingsBoard IoT Gateway](https://thingsboard.io/docs/iot-gateway/)
 
