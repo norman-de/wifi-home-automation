@@ -27,7 +27,7 @@ A collection of examples and information for a simple and affordable home automa
 
 ### Devices overview
 * [Electric heating control with Adafruit AM2302 temperature & humidity sensors](https://github.com/norman-de/simple-home-automation/wiki/electric-heating-control)
-* [battery powered MQTT WIFI remote control for scene controlled light](https://github.com/norman-de/simple-home-automation/wiki/MQTT-WIFI-remote-control)
+* [Battery powered MQTT WIFI remote control for scene controlled light](https://github.com/norman-de/simple-home-automation/wiki/MQTT-WIFI-remote-control)
 * [Plant soil moisture sensor with TSL45315 I2C light sensor](https://github.com/norman-de/simple-home-automation/wiki/plant-soil-moisture-sensor)
 * [Timed light for pets](https://github.com/norman-de/simple-home-automation/wiki/timed-light-for-pets)
 * [Water level detector for dehumidifiers with hc-sr04 ultrasonic sensor and Si7021 I2C humidity and temperature sensor](https://github.com/norman-de/simple-home-automation/wiki/water-level-detector)
