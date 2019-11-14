@@ -1,5 +1,5 @@
 # Simple home automation
-A collection of examples and information for a simple and affordable home automation solution.
+A collection of examples and information for a simple and affordable home automation solution. (For nerds only)
 
 ![GitHub](https://img.shields.io/github/license/norman-de/simple-home-automation) ![GitHub last commit](https://img.shields.io/github/last-commit/norman-de/simple-home-automation)
 
@@ -31,5 +31,6 @@ A collection of examples and information for a simple and affordable home automa
 * [Plant soil moisture sensor with TSL45315 I2C light sensor](https://github.com/norman-de/simple-home-automation/wiki/plant-soil-moisture-sensor)
 * [Timed light for pets](https://github.com/norman-de/simple-home-automation/wiki/timed-light-for-pets)
 * [Water level detector for dehumidifiers with hc-sr04 ultrasonic sensor and Si7021 I2C humidity and temperature sensor](https://github.com/norman-de/simple-home-automation/wiki/water-level-detector)
+* [Self build rgb controller](https://github.com/norman-de/simple-home-automation/wiki/self-build-rgb-controller)
 * Weather info display with Nextion TFT HMI display NX4827T043
 * Sensor values from Oregon Scientific Multi-zone Weather Station with SDR
