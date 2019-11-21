@@ -32,7 +32,7 @@ void starttodo()
 
 void mqtt_connect() {
     // connect to the server
-    client.connect(myID, "<user>", "<pass>", "tele/switch/LWT", MQTT::QOS0, true, "sleep", true);
+    client.connect(myID, "<user>", "<pass>", "tele/switch/LWT", MQTT::QOS1, true, "sleep", true);
     waitFor(client.isConnected,3000);
 }
 
@@ -56,6 +56,7 @@ void loop() {
         waitFor(WiFi.ready,3000);
         if (!client.isConnected()) mqtt_connect();
         client.publish("cmnd/photon/switch" + String(pin), "1", false);
+        delay(50);
     }
     System.sleep({D1, D2, D3, D4, D5, D6, D7}, RISING);
 }
